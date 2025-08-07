@@ -1,0 +1,13 @@
+html{
+    background-color: antiquewhite;
+    scroll-behavior: smooth;
+}
+
+h1{
+    color: rgb(205,98,21);
+    font-size: 300%;
+}
+*{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
