@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +15,17 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+ 📚 Full Stack Projects & Assignments
+
+This repository contains full-stack development assignments and practice projects created as part of our college coursework. While I've previously worked on several full-stack applications independently, this repo is specifically organized to meet the requirements set by our instructor.
+
+🎯 Purpose
+
+The goal of this repository is to:
+- Demonstrate understanding of full-stack concepts taught in class
+- Practice structured development workflows
+- Submit assignments in a clean and organized format
+- Collaborate and share learning with peers
+
+>>>>>>> d67d0e5ba98baedb860eab772b3ee6af93571547
